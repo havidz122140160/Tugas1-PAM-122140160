@@ -18,9 +18,9 @@ Saya telah memodifikasi file `App.kt` untuk menampilkan:
 ## Bukti Eksekusi (Screenshot)
 
 ### 1. Platform Android (Emulator/Fisik)
-![Android Screenshot](./phone-1.png)
-![Android Screenshot](./phone-2.png)
+![Android Screenshot](./screenshoots/phone-1.png)
+![Android Screenshot](./screenshoots/phone-2.png)
 
 ### 2. Platform Desktop (Windows)
-![Desktop Screenshot](./desktop-1.png)
-![Desktop Screenshot](./desktop-2.png)
+![Desktop Screenshot](./screenshoots/desktop-1.png)
+![Desktop Screenshot](./screenshoots/desktop-2.png)
