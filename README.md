@@ -1,7 +1,7 @@
 # Tugas 1: Pengenalan Kotlin Multiplatform (KMP)
-**Mata Kuliah: Pengembangan Berbasis Platform**
+**Pengembangan Aplikasi Mobile**
 
-## Tugas 1
+## Biodata
 - **Nama:** Havidz Ridho Pratama
 - **NIM:** 122140160
 - **Kelas:** PAM-RA
