@@ -1,7 +1,7 @@
 # Tugas 1: Pengenalan Kotlin Multiplatform (KMP)
-**Mata Kuliah: Pengembangan Berbasis Platform**
+**Pengembangan Aplikasi Mobile**
 
-## Tugas 1
+## Biodata
 - **Nama:** Havidz Ridho Pratama
 - **NIM:** 122140160
 - **Kelas:** PAM-RA
@@ -17,10 +17,10 @@ Saya telah memodifikasi file `App.kt` untuk menampilkan:
 
 ## Bukti Eksekusi (Screenshot)
 
-### 1. Platform Android (Emulator/Fisik)
-![Android Screenshot](./phone-1.png)
-![Android Screenshot](./phone-2.png)
+### 1. Platform Android (Device Fisik)
+![Android Screenshot](./screenshoots/phone-1.jpg)
+![Android Screenshot](./screenshoots/phone-2.jpg)
 
 ### 2. Platform Desktop (Windows)
-![Desktop Screenshot](./desktop-1.png)
-![Desktop Screenshot](./desktop-2.png)
+![Desktop Screenshot](./screenshoots/desktop-1.png)
+![Desktop Screenshot](./screenshoots/desktop-2.png)
