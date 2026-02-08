@@ -1,0 +1,13 @@
+Tugas 1 - Pengembangan Aplikasi Mobile (KMP)
+
+Nama    : Havidz Ridho Pratama
+NIM     : 122140160
+Kelas   : PAM-RA
+
+Link Repository GitHub:
+https://github.com/havidz122140160/Tugas1-PAM-122140160.git
+
+Keterangan:
+- Aplikasi berhasil dijalankan di platform Android (HP Fisik & Emulator) dan Desktop (Windows).
+- Modifikasi meliputi Nama, NIM, dan Platform Name pada file App.kt.
+- Bukti screenshot tersedia di file README.md dan folder ./screenshoots pada repository GitHub.
